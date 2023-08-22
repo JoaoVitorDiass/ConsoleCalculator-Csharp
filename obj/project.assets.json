@@ -8,19 +8,24 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\joovi\\.nuget\\packages\\": {}
+    "C:\\Users\\joovi\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joovi\\Documents\\Repositorios\\ConsoleCalculator-Csharp\\ConsoleCalculator-Csharp.csproj",
+      "projectUniqueName": "C:\\Users\\joovi\\OneDrive\\Documentos\\repositorios\\ConsoleCalculator-Csharp\\ConsoleCalculator-Csharp.csproj",
       "projectName": "ConsoleCalculator-Csharp",
-      "projectPath": "C:\\Users\\joovi\\Documents\\Repositorios\\ConsoleCalculator-Csharp\\ConsoleCalculator-Csharp.csproj",
+      "projectPath": "C:\\Users\\joovi\\OneDrive\\Documentos\\repositorios\\ConsoleCalculator-Csharp\\ConsoleCalculator-Csharp.csproj",
       "packagesPath": "C:\\Users\\joovi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joovi\\Documents\\Repositorios\\ConsoleCalculator-Csharp\\obj\\",
+      "outputPath": "C:\\Users\\joovi\\OneDrive\\Documentos\\repositorios\\ConsoleCalculator-Csharp\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\joovi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -1,0 +1,14 @@
+C:\Users\joovi\OneDrive\Documentos\repositorios\ConsoleCalculator-Csharp\bin\Debug\net7.0\ConsoleCalculator-Csharp.exe
+C:\Users\joovi\OneDrive\Documentos\repositorios\ConsoleCalculator-Csharp\bin\Debug\net7.0\ConsoleCalculator-Csharp.deps.json
+C:\Users\joovi\OneDrive\Documentos\repositorios\ConsoleCalculator-Csharp\bin\Debug\net7.0\ConsoleCalculator-Csharp.runtimeconfig.json
+C:\Users\joovi\OneDrive\Documentos\repositorios\ConsoleCalculator-Csharp\bin\Debug\net7.0\ConsoleCalculator-Csharp.dll
+C:\Users\joovi\OneDrive\Documentos\repositorios\ConsoleCalculator-Csharp\bin\Debug\net7.0\ConsoleCalculator-Csharp.pdb
+C:\Users\joovi\OneDrive\Documentos\repositorios\ConsoleCalculator-Csharp\obj\Debug\net7.0\ConsoleCalculator-Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joovi\OneDrive\Documentos\repositorios\ConsoleCalculator-Csharp\obj\Debug\net7.0\ConsoleCalculator-Csharp.AssemblyInfoInputs.cache
+C:\Users\joovi\OneDrive\Documentos\repositorios\ConsoleCalculator-Csharp\obj\Debug\net7.0\ConsoleCalculator-Csharp.AssemblyInfo.cs
+C:\Users\joovi\OneDrive\Documentos\repositorios\ConsoleCalculator-Csharp\obj\Debug\net7.0\ConsoleCalculator-Csharp.csproj.CoreCompileInputs.cache
+C:\Users\joovi\OneDrive\Documentos\repositorios\ConsoleCalculator-Csharp\obj\Debug\net7.0\ConsoleCalculator-Csharp.dll
+C:\Users\joovi\OneDrive\Documentos\repositorios\ConsoleCalculator-Csharp\obj\Debug\net7.0\refint\ConsoleCalculator-Csharp.dll
+C:\Users\joovi\OneDrive\Documentos\repositorios\ConsoleCalculator-Csharp\obj\Debug\net7.0\ConsoleCalculator-Csharp.pdb
+C:\Users\joovi\OneDrive\Documentos\repositorios\ConsoleCalculator-Csharp\obj\Debug\net7.0\ConsoleCalculator-Csharp.genruntimeconfig.cache
+C:\Users\joovi\OneDrive\Documentos\repositorios\ConsoleCalculator-Csharp\obj\Debug\net7.0\ref\ConsoleCalculator-Csharp.dll
